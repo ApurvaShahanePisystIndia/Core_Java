@@ -1,0 +1,19 @@
+{
+		"validData":
+		{
+			"username":"kumarkharare@gmail.com",
+			"password":"123456"
+		},
+		
+		"InvalidData":
+		{
+			"username":"kumarkharare145@gmail.com",
+			"password":"854678"
+		},
+		
+		"blankdata":
+		{
+			"username":" ",
+			"password":" "
+		}
+}

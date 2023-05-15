@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-28T12:33:14 IST" name="Default suite" finished-at="2022-11-28T12:33:18 IST" duration-ms="4314">
+    <groups>
+    </groups>
+    <test started-at="2022-11-28T12:33:14 IST" name="Default test" finished-at="2022-11-28T12:33:18 IST" duration-ms="4314">
+      <class name="TestCase.Login">
+        <test-method is-config="true" signature="setSpecification()[pri:0, instance:TestCase.Login@7ea9e1e2]" started-at="2022-11-28T12:33:14 IST" name="setSpecification" finished-at="2022-11-28T12:33:15 IST" duration-ms="838" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setSpecification -->
+        <test-method signature="Login_user_with_valid_data()[pri:1, instance:TestCase.Login@7ea9e1e2]" started-at="2022-11-28T12:33:15 IST" name="Login_user_with_valid_data" description="Logging using valid data" finished-at="2022-11-28T12:33:18 IST" duration-ms="3437" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_user_with_valid_data -->
+      </class> <!-- TestCase.Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
